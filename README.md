@@ -1,9 +1,9 @@
 # Currency-and-gold-prices-with-PHP-API
 Prices of popular world currencies along with gold and coin prices updated for php + api
-![tala-arz](https://github.com/user-attachments/assets/de0d0df3-bd50-485d-b22a-cd2eaa9fddd5)
 ![Screenshot 2025-01-11 174907](https://github.com/user-attachments/assets/cb38553d-5d47-4bb6-b070-a97c5d433215)
 
 # نسخه دو منتشر شد
+![Untitled-1](https://github.com/user-attachments/assets/6404a6d6-3379-4c3f-8cc6-6715223fca05)
 
 ما از حالا می توانیم با استفاده از curl_multi با سرعت بالاتری دیتا ها را دریافت کنیم همچنین بهبود هایی در روش برنامه نویسی دادیم برایتان تا بتوانید به سادگی با این برنامه کار کنید! این برنامه تمامی قیمت ها را بر مبنای ریال ایران دریافت خواهد کرد همچنین با کاهش ارز های مختلف می توانید سرعت API ارز های دیجیتال را افزایش دهید
 # به فارسی بدانید و بخوانید درباره این api
